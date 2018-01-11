@@ -55,5 +55,9 @@ rules2 = association_rules(frequent_itemsets2, metric="lift", min_threshold=1)
 
 rules2[ (rules2['lift'] >= 4) &
         (rules2['confidence'] >= 0.5)]
-        
-        
+
+
+##############################################################################
+""""""""""" http://pbpython.com/market-basket-analysis.html """"""""""""""""""
+##############################################################################
+
