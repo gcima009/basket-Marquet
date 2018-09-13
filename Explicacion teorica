@@ -1,4 +1,11 @@
 Definición del problema[editar]
+
+*********************************************
+Simple explicacion https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
+*********************************************
+
+
+
 Según la definición original de Agrawal et al3​ el problema de minería de reglas de asociación se define como:
 
 Sea {\displaystyle I=\{i_{1},i_{2},\ldots ,i_{n}\}} {\displaystyle I=\{i_{1},i_{2},\ldots ,i_{n}\}} un conjunto de {\displaystyle n} n atributos binarios llamados items.
